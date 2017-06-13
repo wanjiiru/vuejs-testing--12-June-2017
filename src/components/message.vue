@@ -7,7 +7,8 @@
 	export default{
 		data(){
 			return{
-						message:'Hello from this side'}
-		}
-	}
-	</script>
+				message:'Hello from this side'
+				}
+			}
+				}		
+</script>
